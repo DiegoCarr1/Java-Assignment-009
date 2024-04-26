@@ -16,7 +16,9 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+The reason that the answer is incorrect
+is because it exceeds the maximum value
+of 32 bit integers.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +28,8 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+Yes, the values are correct up to 30
+couldn't get it to overflow
 ```
 
 ## Submission
